@@ -1,7 +1,7 @@
 #American Collge Of Technology (Department of MSCS)
-#Prediction of COVID-2019 an improved prediction model
+#Preventive measures during pandemic in data mining
 
-This study applies an improved mathematical model to analyse and predict the growth of the epidemic. An ML-based improved model has been applied to predict the potential threat of COVID-19 in countries worldwide. We show that using iterative weighting for fitting Generalized Inverse Weibull distribution, a better fit can be obtained to develop a prediction framework. This has been deployed on a cloud computing platform for more accurate and real-time prediction of the growth behavior of the epidemic. Interactive prediction graphs can be seen at: https://collaboration.coraltele.com/Predict-Covid-19/.
+This study applies an improved mathematical model to analyse and predict the growth of the epidemic. An ML-based improved model has been applied to predict the potential threat of COVID-19 in countries worldwide. We show that using iterative weighting for fitting Generalized Inverse Weibull distribution, a better fit can be obtained to develop a prediction framework. This has been deployed on a cloud computing platform for more accurate and real-time prediction of the growth behavior of the epidemic. Interactive prediction graphs can be seen at: https://collaboration.coraltele.com/new/.
 
 ## Quick installation of real-time prediction webapp
 
@@ -20,7 +20,7 @@ We use the <i>[Our World in Data](https://github.com/owid/covid-19-data/tree/mas
 
 ## Developer
 
-[Hanna Meressa](https://www.github.com/ HannaMeressa) (hanna.me2010@gmail.com@gmail.com)
+[Hanna Meressa](https://www.github.com/HannaMeressa) (hanna.me2010@gmail.com@gmail.com)
 
 ## Cite this work
 If you use our static model, please cite:
